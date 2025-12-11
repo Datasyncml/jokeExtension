@@ -1,8 +1,8 @@
  {
     "name": "jokes",
-    "version":"0.0.1",
-    "manifest_version":2,
-   "browser_action":{
+    "version":"1.0",
+    "manifest_version":3,
+   "action":{
       "default_popup":"index.html",
       "defuault_icon":"logo.png"
    },
